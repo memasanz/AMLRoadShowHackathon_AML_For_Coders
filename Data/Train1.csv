@@ -1,0 +1,918 @@
+passenger_id,fare,cabin,embarked,home.dest,survived
+501,8.05,,S,,0.0
+588,21.0,,S,"Ilfracombe, Devon",0.0
+402,24.15,,S,,0.0
+1193,15.5,,Q,,0.0
+686,211.3375,B3,S,"St Louis, MO",1.0
+971,7.8792,,Q,"New York, NY",0.0
+117,7.8542,,S,,0.0
+540,76.7292,D33,C,"New York, NY",1.0
+294,24.15,,S,,0.0
+261,7.8792,,Q,,0.0
+587,8.6625,,S,,0.0
+489,18.0,,S,,0.0
+2,7.6292,,Q,,0.0
+405,19.5,,S,"England / Bennington, VT",1.0
+1285,146.5208,B78,C,"Paris, France",0.0
+338,49.5,B39,C,"Zurich, Switzerland",1.0
+356,37.0042,,C,"Paris / Montreal, PQ",1.0
+985,31.3875,,S,"Sweden  Worcester, MA",0.0
+182,14.4,,S,"Stanton, IA",0.0
+1027,31.3875,,S,"Sweden Worcester, MA",0.0
+1023,9.5,,S,,0.0
+657,7.925,,S,"Ruotsinphytaa, Finland New York, NY",0.0
+891,29.125,,Q,,0.0
+716,39.6875,,S,,0.0
+1142,26.55,D34,S,"Westcliff-on-Sea, Essex",0.0
+520,8.05,,S,,0.0
+1268,8.05,,S,,0.0
+395,39.0,,S,"Cape Town, South Africa / Seattle, WA",0.0
+905,8.05,,S,,0.0
+278,7.775,,S,,1.0
+239,0.0,,S,Belfast,0.0
+1255,26.2875,E24,S,"New York, NY",1.0
+1084,25.9292,D17,S,"Brooklyn, NY",1.0
+110,21.6792,,C,,0.0
+1256,7.75,,Q,,1.0
+1307,19.2583,,C,"Syria New York, NY",1.0
+822,262.375,B57 B59 B63 B66,C,"Haverford, PA / Cooperstown, NY",0.0
+1114,7.75,,Q,"Ireland Brooklyn, NY",0.0
+1110,26.55,,S,"New York, NY",1.0
+1048,20.525,,S,"Strood, Kent, England Detroit, MI",0.0
+1034,13.0,D56,S,London,1.0
+568,7.925,,S,,1.0
+615,7.7417,,Q,"New York, NY",0.0
+840,23.45,,S,,0.0
+367,22.025,,S,,1.0
+655,7.7333,,Q,"Philadelphia, PA",0.0
+1296,29.125,,Q,,0.0
+384,14.1083,,S,,0.0
+200,0.0,,S,"Liverpool, England / Belfast",0.0
+279,21.075,,S,,0.0
+65,7.225,,C,,0.0
+481,7.3125,,S,,0.0
+619,7.925,,S,,1.0
+892,7.8292,,Q,,0.0
+272,7.25,,Q,"Co Limerick, Ireland Sherbrooke, PQ",0.0
+1137,7.75,,Q,,0.0
+581,13.0,,S,"Vancouver, BC",0.0
+165,14.4542,,C,,0.0
+761,164.8667,C7,S,"Youngstown, OH",1.0
+998,52.5542,D19,S,"Boston, MA",1.0
+592,27.7208,,C,"Mexico City, Mexico",0.0
+947,14.4583,,C,,0.0
+997,7.225,,C,,0.0
+1174,15.2458,,C,,1.0
+921,15.5,,Q,,0.0
+1282,10.5,,S,"London, England / Marietta, Ohio and Milwaukee, WI",1.0
+188,78.85,,S,,1.0
+40,7.225,,C,,0.0
+783,7.8792,,Q,"Ireland Chicago, IL",0.0
+824,9.8375,,S,,0.0
+724,7.8542,,S,,0.0
+1036,26.0,F2,S,"Nice, France",1.0
+316,14.5,,S,,0.0
+214,9.5,,S,,0.0
+1129,8.05,,S,"Bournemouth, England",0.0
+1203,13.0,,S,"Bryn Mawr, PA, USA",0.0
+644,24.15,,S,"West Bromwich, England Pontiac, MI",0.0
+362,7.225,,C,Syria,0.0
+1205,8.6833,,S,,1.0
+260,13.9,,S,"West Haven, CT",0.0
+19,55.9,E44,S,"Duluth, MN",0.0
+255,10.5,E101,S,"Bath, England / Massachusetts",1.0
+30,9.6875,,Q,"Cambridge, MA",0.0
+1274,7.75,,Q,,0.0
+687,56.4958,,S,"Hong Kong New York, NY",1.0
+230,6.95,,Q,,0.0
+464,7.8958,,S,"Bulgaria Chicago, IL",0.0
+1156,50.0,C39,S,London / Birmingham,0.0
+674,56.4958,,S,,1.0
+253,24.15,,S,"West Bromwich, England Pontiac, MI",0.0
+1272,8.05,,S,,0.0
+1039,71.0,B22,S,"Milwaukee, WI",0.0
+629,10.5,,S,"St Andrews, Guernsey",0.0
+731,56.4958,,S,"Hong Kong New York, NY",1.0
+1233,73.5,,S,,0.0
+553,7.85,,S,"Philadelphia, PA",0.0
+264,134.5,E34,C,"Tuxedo Park, NY",1.0
+363,7.05,,S,,0.0
+1181,7.2292,,C,,0.0
+101,83.475,C83,S,"New York, NY",1.0
+981,164.8667,,S,"Youngstown, OH",0.0
+877,7.75,,Q,,0.0
+764,45.5,,S,"London / New York, NY",0.0
+1105,60.0,C31,S,"Huntington, WV",1.0
+922,9.825,,S,,0.0
+315,25.4667,,S,,0.0
+780,31.3875,,S,"Sweden Worcester, MA",1.0
+982,12.875,,S,,0.0
+993,15.5,,Q,,0.0
+1269,8.5167,,C,,1.0
+54,151.55,C22 C26,S,"Montreal, PQ / Chesterville, ON",0.0
+748,10.5,,S,"Chelsea, London",1.0
+974,12.475,E121,S,,1.0
+1178,7.55,,S,,0.0
+487,35.5,T,S,"Trenton, NJ",0.0
+775,9.5875,,S,,1.0
+471,82.1708,,C,"New York, NY",1.0
+1188,26.0,,S,"Worcester, England",1.0
+975,61.3792,,C,"Geneva, Switzerland / Radnor, PA",0.0
+495,13.0,,S,"Helsinki, Finland Ashtabula, Ohio",0.0
+754,7.925,,S,,0.0
+787,26.55,D22,S,"London / Winnipeg, MB",0.0
+1079,8.05,,S,"Lower Clapton, Middlesex or Erdington, Birmingham",0.0
+940,10.5,,S,"Catford, Kent / Detroit, MI",0.0
+366,26.0,,S,"New York, NY",1.0
+784,26.55,,S,"Los Angeles, CA",1.0
+901,27.0,,S,London,1.0
+930,26.25,,S,"Bishopstoke, Hants / Fayette Valley, ID",1.0
+206,9.5,,S,,0.0
+79,8.6625,,S,,0.0
+190,26.0,,S,"Deer Lodge, MT",1.0
+492,7.8,,S,,0.0
+926,7.75,,Q,,0.0
+145,31.275,,S,"Sweden Winnipeg, MN",0.0
+318,120.0,B96 B98,S,"Bryn Mawr, PA",1.0
+654,26.55,,S,London,0.0
+457,7.8875,,S,,1.0
+144,8.05,,S,,0.0
+864,27.75,,S,"Bournmouth, England",1.0
+912,30.5,C106,S,"Manchester, England",1.0
+546,29.0,,S,"Bangkok, Thailand / Roseville, IL",1.0
+634,7.8958,,S,,0.0
+983,7.8958,,S,,0.0
+83,7.8958,,S,"Bulgaria Chicago, IL",0.0
+154,29.7,C118,C,"Brooklyn, NY",0.0
+801,15.55,,S,,0.0
+1026,79.65,E68,S,"New York, NY",1.0
+1190,14.5,,S,,0.0
+127,7.2292,,C,"Greensburg, PA",1.0
+1294,211.5,C80,C,"Elkins Park, PA",1.0
+403,8.5167,,C,,1.0
+150,59.4,,C,"New York, NY",1.0
+712,26.25,,S,"Bishopstoke, Hants / Fayette Valley, ID",0.0
+413,26.55,,S,"Halifax, NS",0.0
+711,9.5875,,S,,0.0
+1228,7.7875,,Q,,1.0
+1069,14.4542,,C,,1.0
+729,8.05,,S,,0.0
+999,8.05,,S,"Australia Fingal, ND",1.0
+1056,6.95,,Q,"Co Athlone, Ireland New York, NY",1.0
+352,7.775,,S,,0.0
+95,73.5,,S,"West Hampstead, London / Neepawa, MB",0.0
+37,29.7,C47,C,"Paris, France",1.0
+485,8.05,,S,,0.0
+143,7.2292,,C,,0.0
+662,8.6625,,S,,0.0
+158,8.3,,S,"Windsor, England New York, NY",0.0
+552,20.525,,S,"Strood, Kent, England Detroit, MI",1.0
+652,0.0,,S,,0.0
+953,7.775,,S,,1.0
+867,30.6958,A7,C,"St James, Long Island, NY",0.0
+728,7.225,,C,,0.0
+236,14.5,,S,,0.0
+222,8.05,,S,,1.0
+1147,13.0,,S,"Auburn, NY",0.0
+950,15.0458,D,C,Paris,0.0
+752,16.7,G6,S,,1.0
+704,39.6875,,S,,0.0
+578,7.925,,S,,1.0
+62,15.2458,,C,,1.0
+193,7.4958,,S,"Bulgaria Chicago, IL",0.0
+235,29.0,,S,"Bangkok, Thailand / Roseville, IL",1.0
+181,13.0,F33,S,"London / Montreal, PQ",1.0
+713,7.8542,,S,,0.0
+521,7.8958,,S,,0.0
+661,8.6625,,S,,0.0
+943,20.2125,,S,,0.0
+583,7.75,,Q,,0.0
+382,26.0,,S,"Weston-Super-Mare, Somerset",1.0
+1247,26.2875,E25,S,"Philadelphia, PA",1.0
+1212,26.0,,S,,1.0
+331,20.25,,S,"East Providence, RI",0.0
+262,136.7792,C89,C,"Los Angeles, CA",1.0
+6,512.3292,B101,C,,1.0
+266,108.9,C65,C,"Madrid, Spain",1.0
+38,71.2833,C85,C,"New York, NY",1.0
+1270,7.65,F G63,S,,0.0
+545,7.5792,,S,,1.0
+118,15.5,,Q,,1.0
+621,7.7375,,Q,,1.0
+105,56.4958,,S,"Hong Kong New York, NY",1.0
+1064,7.75,,Q,,1.0
+484,7.7792,,Q,,1.0
+899,31.275,,S,"Sweden Winnipeg, MN",0.0
+20,30.0,D45,S,"Kingston, Surrey",1.0
+242,7.225,,C,,0.0
+50,28.5,C51,C,"Washington, DC",1.0
+162,7.5208,,S,,0.0
+830,7.25,,S,"Bridgerule, Devon",0.0
+746,37.0042,,C,"Paris / Montreal, PQ",1.0
+848,8.85,,S,,0.0
+301,30.0,,S,London,1.0
+172,8.05,,S,,0.0
+884,0.0,,S,Belfast,0.0
+1132,8.05,,S,,0.0
+1297,8.7125,,S,,0.0
+667,7.8958,,S,,0.0
+907,46.9,,S,"Wiltshire, England Niagara Falls, NY",0.0
+1232,7.925,,S,"Ruotsinphyhtaa, Finland New York, NY",1.0
+210,0.0,,S,,0.0
+344,7.0542,,S,,0.0
+306,39.6,,S,"Paris /  New York, NY",1.0
+217,27.7208,,C,"Lucca, Italy / California",1.0
+1284,7.8208,,Q,"Kingwilliamstown, Co Cork, Ireland New York, NY",1.0
+289,7.8958,,S,,0.0
+378,33.0,,S,"Denmark Hill, Surrey / Chicago",1.0
+167,8.6625,,S,,0.0
+421,61.175,E31,S,"Amenia, ND",1.0
+980,7.8542,,S,,0.0
+616,36.75,,S,"St Ives, Cornwall / Hancock, MI",1.0
+12,13.0,,S,"Sarnia, ON",0.0
+522,7.6292,,Q,Ireland,0.0
+1009,8.6625,,S,,0.0
+68,23.0,,S,Southampton,1.0
+90,7.25,,S,,0.0
+959,9.225,,S,,0.0
+380,39.4,D28,S,"Paris, France",1.0
+372,31.5,,S,"Guernsey / Elizabeth, NJ",0.0
+258,13.0,,S,"Cornwall / Houghton, MI",0.0
+737,136.7792,C89,C,"Los Angeles, CA",0.0
+304,8.05,,S,,0.0
+1170,9.5,,S,,0.0
+410,7.7958,,S,,0.0
+1265,71.2833,C85,C,"New York, NY",0.0
+665,8.6625,,S,,0.0
+42,34.375,,S,"Rotherfield, Sussex, England Essex Co, MA",0.0
+208,79.65,E67,S,"New York, NY",0.0
+1160,57.9792,B18,C,"Chicago, IL",1.0
+751,7.75,,Q,,1.0
+1001,8.05,,S,,0.0
+596,21.0,,S,"Ilfracombe, Devon",1.0
+1162,30.0708,,C,"New York, NY",1.0
+515,69.55,,S,,0.0
+285,53.1,E8,S,"New York, NY / Ithaca, NY",1.0
+1021,16.1,,S,"Liverpool, England Bedford, OH",0.0
+71,10.5167,,S,"Norrlot, Sweden Chicago, IL",0.0
+561,13.8583,,C,"Barcelona, Spain / Havana, Cuba",1.0
+179,39.6,A16,C,London / Paris,1.0
+1231,7.775,,S,"Myren, Sweden New York, NY",0.0
+1224,15.75,,S,"Aberdeen / Portland, OR",1.0
+493,8.05,,S,,0.0
+116,0.0,,S,Belfast,0.0
+293,20.2125,,S,,0.0
+76,76.2917,D15,C,"Philadelphia, PA",1.0
+48,7.65,F G63,S,"Perkins County, SD",1.0
+689,13.0,,S,"London, England",1.0
+1195,3.1708,,S,,1.0
+1182,29.125,,Q,,0.0
+332,39.0,F4,S,"Guntur, India / Benton Harbour, MI",1.0
+576,7.75,,Q,"Ireland New York, NY",0.0
+622,26.0,,S,"Isle of Wight, England",0.0
+564,7.775,,S,,0.0
+1138,93.5,B69,S,"Montreal, PQ",0.0
+766,15.0458,,C,"New York, NY",0.0
+409,69.55,,S,,0.0
+994,80.0,B28,,"Cincinatti, OH",1.0
+1302,7.225,,C,,0.0
+834,14.4542,,C,,0.0
+288,9.475,,S,"Sweden Akeley, MN",0.0
+630,14.4542,,C,,0.0
+524,52.0,C110,S,"Worcester, MA",0.0
+157,73.5,,S,"New Forest, England",0.0
+337,7.2292,,C,,1.0
+1235,14.5,,S,,0.0
+496,7.2292,,C,,0.0
+46,69.55,,S,,0.0
+869,19.2583,,C,"Syria New York, NY",1.0
+462,135.6333,C99,S,,1.0
+1151,0.0,,S,Belfast,0.0
+829,53.1,D30,S,"New York, NY",1.0
+439,76.2917,D15,C,,1.0
+177,153.4625,C125,S,"Greenwich, CT",1.0
+992,8.05,,S,England,0.0
+1054,13.0,,S,"St Austall, Cornwall",0.0
+424,14.5,,S,,0.0
+325,110.8833,C68,C,"Haverford, PA",1.0
+902,46.9,,S,"Wiltshire, England Niagara Falls, NY",0.0
+664,16.7,G6,S,,1.0
+350,55.4417,E50,C,"Brooklyn, NY",1.0
+447,7.05,,S,Portugal,0.0
+17,7.8958,,S,Austria,0.0
+1111,66.6,C2,S,"Isleworth, England",0.0
+758,6.4958,,S,,0.0
+1218,7.8958,,S,,0.0
+345,7.8958,,S,,0.0
+866,7.775,,S,,0.0
+313,13.0,,S,"Harrow, England",1.0
+757,36.75,,S,"Cornwall / Hancock, MI",0.0
+451,14.4542,,C,,0.0
+170,7.7375,,Q,,0.0
+699,0.0,,S,Belfast,0.0
+1308,15.2458,,C,,1.0
+133,108.9,C105,C,,1.0
+1108,7.8958,,S,,0.0
+1045,41.5792,,C,Paris / Haiti,1.0
+78,512.3292,B51 B53 B55,C,"Austria-Hungary / Germantown, Philadelphia, PA",1.0
+1024,69.55,,S,,0.0
+346,7.225,,C,"Ottawa, ON",0.0
+396,13.0,,S,"Goteborg, Sweden / Rockford, IL",0.0
+1070,7.8958,,S,,0.0
+389,15.7417,,C,,1.0
+385,27.7208,,C,"New York, NY",1.0
+744,262.375,B57 B59 B63 B66,C,"Haverford, PA / Cooperstown, NY",1.0
+119,9.2167,,S,,0.0
+1210,512.3292,,C,,1.0
+966,8.05,,S,,0.0
+229,27.7208,D43,C,"?Havana, Cuba",0.0
+1109,7.75,,Q,"Ireland New York, NY",0.0
+21,7.2292,,C,"Syria Ottawa, ON",0.0
+1173,26.0,,S,"Norwich / New York, NY",1.0
+935,7.925,,S,"Salo, Finland Astoria, OR",0.0
+250,263.0,C23 C25 C27,S,"Winnipeg, MB",1.0
+243,10.5,,S,,0.0
+920,133.65,,S,"New York, NY",1.0
+35,24.0,,C,"Russia New York, NY",1.0
+593,27.75,,S,"Bournmouth, England",1.0
+671,7.8958,,S,,0.0
+507,12.475,,S,"New York, NY",1.0
+937,13.0,,S,"Sittingbourne, England / San Diego, CA",1.0
+771,13.0,,S,"Finland / Minneapolis, MN",1.0
+1059,26.0,A19,S,"Streatham, Surrey",0.0
+109,26.0,,S,"Holley, NY",0.0
+963,19.2583,,C,"Syria New York, NY",1.0
+379,7.75,,S,,0.0
+614,7.8958,,S,,0.0
+604,32.5,,S,"Greenport, NY",1.0
+627,151.55,,S,,1.0
+660,10.5,,S,Guernsey,0.0
+582,7.25,,S,"St Denys, Southampton, Hants",0.0
+723,7.75,,Q,,1.0
+171,38.5,E63,S,"St Anne's-on-Sea, Lancashire",0.0
+677,90.0,C78,Q,"Fond du Lac, WI",1.0
+238,7.75,,Q,,0.0
+700,7.8542,,S,,0.0
+986,42.4,,S,,0.0
+1014,7.8542,,S,,1.0
+709,8.05,,S,,0.0
+1286,25.7,C101,S,"New York, NY",1.0
+321,21.075,,S,,0.0
+120,7.25,,S,,0.0
+1161,26.0,,S,"Swindon, England",0.0
+155,29.0,,S,"Bangkok, Thailand / Roseville, IL",1.0
+1112,66.6,C2,S,"Isleworth, England",1.0
+624,83.1583,C54,C,"New York, NY",1.0
+138,7.8958,,S,,0.0
+125,7.775,,S,,0.0
+456,21.0,,S,"Cornwall / Clear Creek, CO",0.0
+66,79.2,B41,C,"Zurich, Switzerland",1.0
+831,13.775,,S,,0.0
+881,221.7792,C55 C57,S,"New York, NY",0.0
+1153,31.275,,S,"Sweden Winnipeg, MN",0.0
+626,7.775,,S,"Vadsbro, Sweden Ministee, MI",0.0
+605,8.6625,,S,Croatia,0.0
+1295,10.4625,G6,S,,0.0
+1133,27.7208,A11,C,"Paris, France",1.0
+178,69.55,,S,,0.0
+1081,14.5,,S,,0.0
+415,7.8958,,S,"Bulgaria Chicago, IL",0.0
+100,13.0,,S,,1.0
+871,7.8958,,S,,0.0
+1165,46.9,,S,"Wiltshire, England Niagara Falls, NY",0.0
+741,22.025,,S,,1.0
+334,9.5,,S,,0.0
+114,7.8958,,S,,0.0
+681,51.8625,E46,S,"Brighton, MA",0.0
+220,46.9,,S,"Wiltshire, England Niagara Falls, NY",0.0
+391,7.4958,,S,,0.0
+1202,7.7958,,S,,1.0
+309,135.6333,C32,C,"New York, NY / Washington, DC",1.0
+1154,11.5,,S,"Buenos Aires, Argentina / New Jersey, NJ",0.0
+1223,56.4958,,S,,1.0
+527,7.75,,Q,,1.0
+927,12.275,,S,"Philadelphia, PA",0.0
+245,7.925,,S,,0.0
+685,7.8958,,S,,0.0
+518,262.375,B61,C,,1.0
+1017,39.0,,S,"Cape Town, South Africa / Seattle, WA",1.0
+861,134.5,E34,C,"Tuxedo Park, NY",1.0
+394,14.4583,,C,"Ottawa, ON",0.0
+640,0.0,B94,S,,0.0
+104,26.55,,C,"Indianapolis, IN",1.0
+1234,18.75,,S,"Cornwall / Akron, OH",1.0
+1031,7.7333,,Q,,0.0
+979,23.25,,Q,,1.0
+51,7.25,,S,,0.0
+602,28.5,C124,S,"Surbiton Hill, Surrey",0.0
+354,25.4667,,S,,0.0
+1227,86.5,B77,S,"London  Vancouver, BC",1.0
+460,7.65,,S,,1.0
+22,8.05,,S,"Broomfield, Chelmsford, England",0.0
+374,24.15,,S,,0.0
+538,36.75,,S,"St Ives, Cornwall / Hancock, MI",1.0
+218,6.975,,S,"Effington Rut, SD",0.0
+585,10.5,E77,S,"Southampton / New York, NY",0.0
+944,10.5,,S,"Hamilton, ON",0.0
+841,7.8542,,S,,0.0
+879,221.7792,C55 C57,S,"New York, NY",0.0
+414,7.775,,S,"Sweden Joliet, IL",0.0
+205,39.6875,,S,,0.0
+1061,11.1333,,S,,1.0
+497,30.0,,S,London,1.0
+516,15.2458,,C,"Syria Kent, ON",0.0
+702,12.475,,S,"Union Hill, NJ",1.0
+676,18.7875,,C,"Syria Fredericksburg, VA",1.0
+375,8.6625,,C,,0.0
+185,7.8958,,S,,0.0
+404,18.0,,S,,0.0
+706,15.2458,,C,"Syria Kent, ON",0.0
+1278,14.4,,S,"Stanton, IA",0.0
+401,20.575,,S,"Devon, England Wichita, KS",1.0
+856,16.1,,S,"Liverpool, England Bedford, OH",1.0
+1063,7.8542,,S,"Medeltorp, Sweden Chicago, IL",0.0
+441,164.8667,,S,"Youngstown, OH",1.0
+132,21.075,,S,,0.0
+745,26.25,,S,"Ilford, Essex / Winnipeg, MB",1.0
+173,21.075,,S,,0.0
+690,8.05,,S,,0.0
+825,221.7792,C97,S,,1.0
+827,14.5,,S,"Detroit, MI",1.0
+428,7.225,,C,,0.0
+915,26.0,,S,"Plymouth, Devon / Detroit, MI",1.0
+1289,16.1,,S,,0.0
+1126,13.0,,S,Paris,0.0
+718,7.8958,,C,,0.0
+282,20.2125,,S,,0.0
+96,20.525,,S,"Strood, Kent, England Detroit, MI",1.0
+957,10.5,,S,"Plymouth, Dorset / Houghton, MI",0.0
+635,30.0,C148,C,"New York, NY",1.0
+738,55.4417,C116,C,"Newark, NJ",1.0
+499,13.0,,S,"Copenhagen, Denmark",0.0
+74,7.8958,,C,,0.0
+89,35.0,C128,S,"London, England",0.0
+984,82.2667,B45,S,"Minneapolis, MN",1.0
+691,8.05,,S,,0.0
+1113,8.05,,S,London,0.0
+0,15.85,,S,,1.0
+558,71.0,B22,S,"Milwaukee, WI",1.0
+683,32.5,,S,"Greenport, NY",1.0
+392,7.25,,S,"Illinois, USA",0.0
+476,24.15,,S,,0.0
+1159,27.9,,S,,0.0
+519,8.05,,S,,0.0
+107,12.35,,Q,,0.0
+347,7.75,,Q,,1.0
+1101,8.05,,S,"England New York, NY",0.0
+1029,7.2292,,C,,1.0
+223,16.1,,S,,1.0
+1304,7.8958,,S,,0.0
+327,90.0,C78,Q,"Green Bay, WI",1.0
+870,7.925,,S,,0.0
+102,7.8958,,S,Austria,0.0
+1086,29.125,,Q,,0.0
+620,13.0,,S,"Clevedon, England",0.0
+475,7.75,,Q,"Ireland New York, NY",0.0
+213,12.475,E121,S,,1.0
+707,12.875,D,C,"Montreal, PQ",0.0
+135,227.525,,C,,1.0
+852,17.8,,S,"Altdorf, Switzerland",0.0
+246,7.75,,Q,,0.0
+1291,10.4625,G6,S,,0.0
+1083,75.25,D37,C,"Portland, OR",1.0
+1177,23.45,,S,,0.0
+1032,7.925,,S,,0.0
+1096,21.0,,S,"India / Pittsburgh, PA",0.0
+1011,9.5,,S,,1.0
+989,7.8958,,S,"Bulgaria Coon Rapids, IA",0.0
+365,25.5875,E58,S,"Victoria, BC",0.0
+248,7.75,,Q,,0.0
+736,8.05,,S,,0.0
+26,20.25,,S,"East Providence, RI",1.0
+836,7.8958,,S,,0.0
+284,227.525,C45,C,"New York, NY",1.0
+417,227.525,C62 C64,C,"New York, NY",0.0
+913,30.5,B50,C,"Basel, Switzerland",1.0
+680,22.525,,S,,0.0
+904,65.0,,S,"Somerset / Bernardsville, NJ",0.0
+3,27.7208,,C,"Stockholm, Sweden",1.0
+134,83.1583,C50,C,"Mt Airy, Philadelphia, PA",1.0
+837,12.2875,,S,,1.0
+355,7.775,,S,,0.0
+292,7.05,,S,Argentina,0.0
+698,13.5,,S,"Bronx, NY",0.0
+1136,34.375,,S,"Rotherfield, Sussex, England Essex Co, MA",0.0
+1116,0.0,,S,,1.0
+1262,7.75,,Q,,0.0
+906,7.05,,S,,0.0
+897,51.4792,C101,S,"Bayside, Queens, NY",1.0
+1010,14.1083,,S,,1.0
+228,83.1583,E52,C,"Lakewood, NJ",0.0
+643,4.0125,,C,Syria,0.0
+225,75.25,D37,C,"Portland, OR",0.0
+226,82.1708,,C,"New York, NY",0.0
+842,7.2292,,C,,0.0
+369,15.85,,S,"Ruotsinphytaa, Finland New York, NY",1.0
+1185,13.5,,S,"Sault St Marie, ON",0.0
+844,9.0,,S,,0.0
+339,79.2,B41,C,"Zurich, Switzerland",1.0
+419,8.6625,,S,,0.0
+1123,7.05,,S,Portugal,0.0
+603,13.0,,S,"New York, NY",1.0
+1180,27.9,,S,,0.0
+265,53.1,C123,S,"Scituate, MA",1.0
+454,110.8833,,C,,1.0
+63,91.0792,B49,C,"Dowagiac, MI",1.0
+1127,8.4042,,S,,0.0
+1049,21.0,,S,"Mamaroneck, NY",1.0
+360,26.0,C106,S,"Brockton, MA",0.0
+237,7.775,,S,,0.0
+650,7.225,,C,,1.0
+112,26.55,C52,S,"Stockholm, Sweden / Washington, DC",1.0
+1239,25.7417,,C,"Paris, France",1.0
+1088,13.8625,D38,C,"Cologne, Germany",1.0
+532,53.1,D30,S,"New York, NY",0.0
+577,81.8583,A34,S,"San Francisco, CA",1.0
+810,73.5,,S,"West Hampstead, London / Neepawa, MB",0.0
+126,52.5542,D35,S,"New York, NY",1.0
+259,113.275,D36,C,"Lexington, MA",1.0
+1074,26.55,,S,"New York, NY",0.0
+148,26.55,C124,S,"Portland, OR",0.0
+721,7.2292,,C,,0.0
+1038,26.0,,S,"Norwich / New York, NY",1.0
+376,31.0,,S,,0.0
+851,21.0,,S,"Plymouth, England",0.0
+896,13.5,,S,Glasgow,0.0
+694,247.5208,B58 B60,C,"Montreal, PQ",1.0
+137,7.8958,,S,,0.0
+1057,65.0,,S,"Somerset / Bernardsville, NJ",1.0
+7,23.45,,S,,0.0
+502,8.4583,,Q,,0.0
+854,13.0,,S,"Rochester, NY",0.0
+631,23.0,,S,"Cornwall / Akron, OH",1.0
+1120,8.6625,,S,,0.0
+371,7.8542,,S,,1.0
+929,11.5,,S,"Cornwall / Camden, NJ",0.0
+29,34.375,,S,"Rotherfield, Sussex, England Essex Co, MA",0.0
+411,26.55,C103,S,"Birkdale, England Cleveland, Ohio",1.0
+407,17.8,,S,"Altdorf, Switzerland",0.0
+1276,7.725,,Q,"Kingwilliamstown, Co Cork, Ireland Glens Falls, NY",1.0
+357,76.7292,D49,C,,1.0
+353,6.4958,,S,,0.0
+788,7.25,,S,,1.0
+153,134.5,E39 E41,C,,1.0
+566,7.2292,F E46,C,,0.0
+542,26.0,,S,"Liverpool / Montreal, PQ",0.0
+343,7.775,,S,,0.0
+305,13.775,,S,,0.0
+612,7.75,,Q,"Aughnacliff, Co Longford, Ireland New York, NY",0.0
+4,7.25,,S,,0.0
+280,47.1,,S,"Montevideo, Uruguay",0.0
+1121,57.0,B20,S,"Calgary, AB",1.0
+1230,89.1042,C92,C,"Paris, France / New York, NY",1.0
+1267,31.6792,A29,C,"New York, NY",0.0
+56,49.5042,C90,C,"Belgium  Montreal, PQ",1.0
+400,26.0,,C,"San Francisco, CA",0.0
+572,26.0,,S,"Cornwall / Spokane, WA",0.0
+962,26.0,,S,"England / San Francisco, CA",1.0
+473,7.55,,S,,0.0
+468,13.0,,S,"Tokyo, Japan",1.0
+1044,21.0,,S,"Plymouth, England",0.0
+1058,26.0,,S,"Warwick, England",1.0
+1238,10.5,,S,"Halesworth, England",0.0
+1018,8.05,,S,,0.0
+776,86.5,B77,S,"London, England",1.0
+847,63.3583,D10 D12,C,"New York, NY",1.0
+504,79.2,B82 B84,C,"New York, NY",0.0
+534,27.4458,,C,"Washington, DC",1.0
+720,83.475,C83,S,"New York, NY",0.0
+903,30.5,C104,S,"Toronto, ON",1.0
+13,12.525,,S,"Jacksonville, FL",0.0
+648,7.2292,,C,,0.0
+679,7.2292,,C,Syria,0.0
+550,16.0,,S,"Weston-Super-Mare / Moose Jaw, SK",0.0
+838,7.55,,S,,0.0
+1163,26.0,,S,"Moscow / Bronx, NY",0.0
+781,13.0,D,S,"Bristol, Avon / Jacksonville, FL",1.0
+300,27.9,,S,,0.0
+1062,13.0,,S,"Rochester, NY",1.0
+1055,7.75,,Q,Ireland,1.0
+945,7.0458,,S,"Bridgerule, Devon",0.0
+570,13.775,,S,,0.0
+163,8.05,E10,S,,1.0
+636,7.65,F G73,S,,0.0
+666,7.8542,,S,,0.0
+336,0.0,B52 B54 B56,S,Liverpool,1.0
+59,77.2875,D26,S,"Brunswick, ME",0.0
+1175,7.75,,Q,,1.0
+1219,7.775,,S,"Brennes, Norway New York",0.0
+53,26.0,,S,"Plymouth, Devon / Detroit, MI",1.0
+490,263.0,C23 C25 C27,S,"Winnipeg, MB",0.0
+326,8.6625,,S,,0.0
+449,25.925,,S,"New York, NY",0.0
+855,262.375,B57 B59 B63 B66,C,"Haverford, PA / Cooperstown, NY",1.0
+1025,13.0,,S,Liverpool,0.0
+1016,135.6333,,C,,0.0
+1107,52.0,B71,S,"Montreal, PQ",0.0
+823,52.5542,D35,S,"New York, NY",1.0
+939,26.0,,S,England,0.0
+826,77.9583,D9,S,"Hudson, NY",1.0
+437,106.425,C86,C,"Deephaven, MN / Cedar Rapids, IA",1.0
+670,41.5792,,C,Paris / Haiti,1.0
+563,13.0,,S,"Brooklyn, NY",1.0
+1097,7.75,,Q,,0.0
+1225,9.8417,,S,,1.0
+786,7.8958,,C,,0.0
+873,56.4958,,S,,1.0
+1283,13.0,,S,,0.0
+819,15.2458,,C,,1.0
+219,19.9667,,S,,0.0
+1196,7.0,,S,,1.0
+1006,7.8792,,Q,,1.0
+820,83.1583,C54,C,"Mt Airy, Philadelphia, PA",1.0
+586,22.525,,S,"Bergen, Norway",0.0
+941,15.75,,S,"Aberdeen / Portland, OR",1.0
+348,13.5,,S,"West Kensington, London",0.0
+1236,22.025,,S,,1.0
+463,135.6333,C32,C,"New York, NY / Briarcliff Manor NY",1.0
+1220,7.2292,,C,,0.0
+653,7.2292,,C,,0.0
+573,8.0292,,Q,,1.0
+647,90.0,C93,S,"New York, NY /  Stamford CT",1.0
+595,10.5,,S,"Cornwall, England Houghton, MI",0.0
+890,22.3583,,C,,1.0
+470,79.2,,C,"New York, NY",0.0
+800,33.5,B19,S,"Brooklyn, NY",0.0
+281,26.55,,S,"Roachdale, IN",0.0
+932,55.0,E33,S,"St Leonards-on-Sea, England Ohio",1.0
+732,7.8792,,Q,,1.0
+715,164.8667,C7,S,"Youngstown, OH",1.0
+832,10.5,,S,"Indianapolis, IN",1.0
+951,15.5,,Q,,0.0
+1037,8.05,,S,"Dorking, Surrey, England",0.0
+455,29.125,,Q,,0.0
+584,19.2583,,C,"Syria New York, NY",1.0
+147,10.5,F33,S,"Chicago, IL",1.0
+160,7.925,,S,,0.0
+750,78.2667,D20,C,"Haverford, PA",1.0
+859,10.5,,S,,0.0
+952,11.5,,S,"Penzance, Cornwall / Akron, OH",0.0
+1301,211.3375,B5,S,"St Louis, MO",1.0
+628,8.05,,S,"Bridgwater, Somerset, England",0.0
+606,7.75,,Q,,0.0
+164,7.7333,,Q,"Co Longford, Ireland New York, NY",1.0
+106,77.9583,D7,S,"Hudson, NY",1.0
+1040,7.225,,C,,0.0
+617,7.775,,S,"Hartford, CT",0.0
+1091,34.6542,A5,C,"New York, NY",0.0
+329,7.8875,,S,"England Albion, NY",0.0
+480,211.3375,B5,S,"St Louis, MO",1.0
+498,6.2375,,S,,0.0
+1214,27.0,,S,London,0.0
+93,15.5,,Q,,1.0
+809,30.0708,,C,"New York, NY",0.0
+433,6.4958,,S,,0.0
+43,7.75,,Q,,0.0
+860,7.8958,,S,,0.0
+1144,8.05,,S,London,0.0
+967,83.1583,E49,C,"Lakewood, NJ",1.0
+710,18.0,,S,,0.0
+1277,15.5,,Q,,1.0
+1246,13.0,,S,"Newark, NJ",0.0
+765,7.8958,,S,,0.0
+885,8.05,,S,,0.0
+556,28.5375,C53,C,"Albany, NY",1.0
+1243,80.0,B28,,,1.0
+69,6.8583,,Q,,0.0
+514,69.3,B35,C,"Paris, France",1.0
+509,13.7917,D,C,"New York, NY",1.0
+340,26.0,,S,"Liverpool / Montreal, PQ",0.0
+221,57.75,C28,C,"New York, NY",1.0
+146,18.0,,S,,0.0
+1053,26.55,,S,"Stockholm, Sweden",0.0
+803,7.75,,Q,,0.0
+508,42.5,B11,S,London / Middlesex,0.0
+1169,120.0,B96 B98,S,"Bryn Mawr, PA",1.0
+176,50.4958,B10,C,"Omaha, NE",0.0
+804,9.5,,S,,0.0
+168,7.25,,S,"Merrill, WI",0.0
+1131,13.0,,S,"Bronx, NY",0.0
+1199,15.7417,,C,,1.0
+129,6.975,,S,,1.0
+189,30.0,B42,S,"Greenwich, CT",1.0
+136,35.5,A26,C,"Basel, Switzerland",1.0
+894,17.4,,S,"Tampico, MT",1.0
+197,14.4,,S,"Stanton, IA",0.0
+290,7.8542,,S,,0.0
+36,7.75,,S,,1.0
+767,151.55,C22 C26,S,"Montreal, PQ / Chesterville, ON",1.0
+232,61.3792,,C,"Geneva, Switzerland / Radnor, PA",1.0
+645,7.05,,S,,0.0
+33,7.925,,S,,1.0
+1264,7.8792,,Q,"Co Sligo, Ireland New York, NY",0.0
+1068,23.0,,S,"Cornwall / Akron, OH",1.0
+865,7.775,,S,"Karberg, Sweden Jerome Junction, AZ",0.0
+341,39.4,D28,S,"Paris, France",1.0
+1085,29.7,A18,C,"Philadelphia, PA",0.0
+199,7.7208,,Q,,1.0
+429,7.7958,,S,"Oskarshamn, Sweden Minneapolis, MN",1.0
+1290,7.8958,,S,,0.0
+876,9.5,,S,,0.0
+730,7.7958,,S,,1.0
+919,26.0,,S,"Rochester, NY",0.0
+297,73.5,,S,"Lyndhurst, England",0.0
+73,8.1375,,Q,,0.0
+807,14.4583,,C,,0.0
+547,23.0,,S,"Cornwall / Akron, OH",1.0
+949,26.0,,S,"Skara, Sweden / Rockford, IL",0.0
+1186,7.925,,S,"Ruotsinphytaa, Finland New York, NY",0.0
+821,15.85,,S,,0.0
+663,7.75,,Q,"Co Sligo, Ireland Hartford, CT",0.0
+1176,13.0,,S,"Harrow-on-the-Hill, Middlesex",0.0
+623,120.0,B96 B98,S,"Bryn Mawr, PA",1.0
+212,12.1833,,S,,0.0
+1035,13.0,,S,"Kontiolahti, Finland / Detroit, MI",0.0
+1184,13.0,,S,"Elmira, NY / Orange, NJ",0.0
+1211,512.3292,B51 B53 B55,C,"Germantown, Philadelphia, PA",1.0
+727,9.825,,S,,0.0
+701,13.0,,S,"Southsea, Hants",0.0
+1022,27.7208,,C,"Chicago, IL",0.0
+1251,6.4375,,C,,0.0
+234,7.2292,,C,,0.0
+1007,7.775,,S,,0.0
+978,19.5,,S,"England / Bennington, VT",1.0
+67,29.7,A9,C,"Paris, France",1.0
+24,9.35,,S,"Tranvik, Finland New York",0.0
+216,82.2667,B45,S,"Minneapolis, MN",1.0
+812,26.0,,S,"Minneapolis, MN",0.0
+735,16.1,,S,,0.0
+111,53.1,C123,S,"Scituate, MA",0.0
+166,26.2833,D47,S,"New York, NY",1.0
+1249,7.25,,S,,0.0
+207,21.0,,S,"Elizabeth, NJ",1.0
+274,35.5,C52,S,"London, England",1.0
+41,7.8958,,S,,0.0
+591,13.5,,S,"Yoevil, England / Cottage Grove, OR",1.0
+525,63.3583,D10 D12,C,"New York, NY",1.0
+287,19.9667,,S,,0.0
+469,28.7125,C49,C,"Paris, France New York, NY",0.0
+121,7.8542,,S,"Sweden Chicago, IL",0.0
+1305,7.0542,,S,,0.0
+928,26.0,,S,"Plymouth, Devon / Detroit, MI",1.0
+673,13.0,,S,,0.0
+1141,31.5,,S,"Guernsey / Elizabeth, NJ",0.0
+886,21.0,,S,"Upper Burma, India Pittsburgh, PA",0.0
+956,8.05,,S,,1.0
+25,15.0333,,C,Paris,0.0
+1134,51.8625,D21,S,"Southington / Noank, CT",0.0
+149,22.3583,,C,,1.0
+925,7.8792,,Q,"Kilmacowen, Co Sligo, Ireland New York, NY",1.0
+696,59.4,,C,"New York, NY",1.0
+843,7.2833,,Q,"Co Cork, Ireland Roxbury, MA",0.0
+889,8.05,,S,,0.0
+598,69.55,,S,,0.0
+1020,16.0,,S,"India / Rapid City, SD",1.0
+139,15.2458,,C,"Syria Kent, ON",0.0
+749,8.7125,,C,,0.0
+1004,20.575,,S,"Devon, England Wichita, KS",0.0
+323,14.5,,S,"Detroit, MI",1.0
+180,10.5,,S,"Gunnislake, England / Butte, MT",0.0
+450,7.05,,S,,0.0
+607,7.225,,C,,1.0
+1043,8.05,,S,"England Oglesby, IL",1.0
+296,7.775,,S,,1.0
+94,7.4958,,S,,1.0
+1187,227.525,,C,,0.0
+637,8.6625,,S,Austria-Hungary,0.0
+286,31.3875,,S,"Sweden  Worcester, MA",1.0
+488,7.8792,,Q,,0.0
+444,26.55,E17,S,"Lima, Peru",1.0
+275,86.5,B79,S,,1.0
+806,7.75,,Q,,1.0
+1152,26.0,,S,"Weston-Super-Mare, Somerset",0.0
+32,7.725,,Q,,0.0
+1104,14.4583,,C,"Ottawa, ON",0.0
+307,10.5,,S,"St Ives, Cornwall / Houghton, MI",0.0
+770,13.5,,S,"Sydney, Australia",0.0
+11,8.05,,S,"London New York, NY",1.0
+872,46.9,,S,"Wiltshire, England Niagara Falls, NY",0.0
+1067,26.25,,S,"Ilford, Essex / Winnipeg, MB",1.0
+86,7.75,,S,,0.0
+778,26.0,,S,"Bennington, VT",0.0
+1060,24.0,,C,"Russia New York, NY",0.0
+1298,7.8958,,S,"Bulgaria Chicago, IL",0.0
+1082,93.5,B73,S,,1.0
+1065,8.05,,S,,0.0
+782,8.05,,S,,0.0
+562,31.5,,S,"Guernsey / Elizabeth, NJ",0.0
+209,9.35,,S,"London, England Norfolk, VA",1.0
+1172,26.0,,S,"Hornsey, England",0.0
+739,7.225,,C,,1.0
+594,27.75,,S,"Bournmouth, England",0.0
+123,7.75,,Q,,0.0
+734,26.55,C87,S,"Wimbledon Park, London / Hayling Island, Hants",0.0
+931,23.45,,S,,0.0
+98,13.8583,,C,"Barcelona, Spain / Havana, Cuba",1.0
+377,8.6625,,S,,0.0
+130,8.6625,,S,,0.0
+23,7.75,,Q,,0.0
+1229,14.4542,,C,"Syria Ottawa, ON",0.0
+555,18.75,,S,"Cornwall / Akron, OH",1.0
+370,0.0,A36,S,"Belfast, NI",0.0
+383,7.75,,Q,,1.0
+201,56.4958,,S,,0.0
+917,8.05,,S,,0.0
+368,26.0,E60,S,London,0.0
+973,69.55,,S,,0.0
+387,7.75,,Q,"Ireland Philadelphia, PA",0.0
+816,7.925,,S,,1.0
+256,15.5,,Q,,1.0
+1221,13.0,F2,S,"Boston, MA",0.0
+1119,8.05,,S,,0.0
+169,14.4542,,C,Greece,0.0
+560,7.925,,S,,0.0
+373,27.75,C111,C,"New York, NY",0.0
+909,59.4,,C,"New York, NY",0.0
+719,42.4,,S,"Washington, DC",0.0
+791,14.4542,,C,Greece,0.0
+954,51.8625,E46,S,"Dorchester, MA",0.0
+1167,53.1,E8,S,"New York, NY / Ithaca, NY",1.0
+1204,12.35,E101,Q,"Harrisburg, PA",1.0
+868,10.5,,S,"Guernsey, England / Edgewood, RI",0.0
+972,11.1333,,S,,1.0
+1155,13.0,F,S,,0.0
+1275,7.2292,,C,,0.0
+1071,7.925,,S,,1.0
+964,10.5,,S,Cornwall,0.0
+774,7.775,,S,,1.0
+324,7.75,,Q,,0.0
+203,21.0,,S,"Cornwall / Clear Creek, CO",0.0
+84,39.0,F4,S,"Guntur, India / Benton Harbour, MI",1.0
+633,8.05,,S,,0.0
+908,7.925,,S,,1.0
+611,13.0,,S,"Seattle, WA / Toledo, OH",0.0
+398,33.0,,S,"Denmark Hill, Surrey / Chicago",0.0
+91,113.275,D36,C,"Lexington, MA",1.0
+1106,25.4667,,S,,0.0
+430,26.0,,S,"Skara, Sweden / Rockford, IL",1.0
+779,12.35,,Q,,0.0
+1143,83.1583,E45,C,"Lakewood, NJ",1.0
+291,7.925,,S,,0.0
+57,8.05,,S,"London Brooklyn, NY",1.0
+257,56.4958,,S,,0.0
+888,26.0,F2,S,"Nice, France",0.0
+1273,7.75,,S,"Stockholm, Sweden New York",0.0
+1066,52.0,C126,S,"London /  East Orange, NJ",1.0
+388,10.5,,S,"Pondersend, England / New Durham, NJ",1.0
+335,15.85,,S,"Ruotsinphytaa, Finland New York, NY",0.0
+273,211.3375,,S,,1.0
+756,7.925,,S,,0.0
+1077,8.6542,,S,,0.0
+1263,8.05,,S,,0.0
+128,7.2292,,C,,1.0
+802,11.1333,,S,,1.0
+28,13.0,,S,"Finland / Washington, DC",1.0
+1207,7.2292,,C,,0.0
+882,146.5208,B78,C,"Paris, France",1.0
+510,7.75,,Q,,0.0
+675,21.0,,S,"Mamaroneck, NY",1.0
+151,81.8583,A34,S,"San Francisco, CA",1.0
+244,7.8958,,S,,0.0
+714,90.0,C93,S,"New York, NY /  Stamford CT",1.0
+543,7.7292,,Q,,0.0
+544,12.7375,,C,"Milford, NH",1.0
+639,52.0,A14,S,"Stoughton, MA",0.0
+697,7.575,,S,,0.0
+423,15.9,,S,"England Brooklyn, NY",1.0
+910,13.0,,S,"Worcester, MA",0.0
+1171,7.55,,S,,0.0
+659,7.65,F G73,S,,0.0
+797,7.8542,,S,,0.0
+1287,13.0,,S,London,0.0
+1201,29.125,,Q,,0.0
+99,7.8958,,S,,0.0
+850,34.0208,D46,S,"East Orange, NJ",0.0
+448,8.05,,S,,0.0
+755,93.5,B69,S,"Montreal, PQ",1.0
+976,7.25,,S,,0.0
+115,8.4333,,S,,0.0
+777,8.05,,S,,0.0
+72,7.05,,S,,0.0
+845,15.2458,,C,,1.0
+537,7.8542,,S,,0.0
+849,8.05,,S,,0.0
+174,31.275,,S,"Sweden Winnipeg, MN",0.0
+87,26.25,,S,"Ilford, Essex / Winnipeg, MB",0.0
+551,69.55,,S,,0.0
+705,7.8958,,S,,0.0
+314,8.05,,S,"West Bromwich, England Pontiac, MI",0.0
+600,7.7958,,S,"Dagsas, Sweden Fower, MN",0.0
+1094,26.0,,S,"Moscow / Bronx, NY",1.0
+599,7.25,,S,,0.0
+277,15.0458,,C,"Paris / Montreal, PQ",0.0
+1033,8.05,,S,,1.0
+763,79.2,B86,C,,0.0
+835,13.4167,,C,,1.0
+1216,52.5542,D19,S,"Boston, MA",1.0
+559,7.8542,,S,"Krakoryd, Sweden Bloomington, IL",0.0
+684,39.0,F4,S,"Guntur, India / Benton Harbour, MI",1.0
