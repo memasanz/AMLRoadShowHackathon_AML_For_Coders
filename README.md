@@ -49,7 +49,7 @@ Dataset(s) Features:
 - Register the datasets:
 [Day2_Inference1.csv](./Data/Day2_Inference1.csv)
 and
-[Day2_Inference2.csv](./Data/Day2_Inference2.csv)
+[Day2_Inference2.csv](./Data/Day2_inference2.csv)
 
 
 - Consume the datasets, and run batch prediction saving a dataset and registering to the AML workspace.
