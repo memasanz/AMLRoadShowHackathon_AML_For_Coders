@@ -4,8 +4,12 @@
 
 ### Day 1: Creating, Register & Deploy a Model Leveraging an ACI endpoint.
 
-Insider your Data folder – you will see a very familiar dataset.
-The titanic dataset. You will work without AutoML to create a classication model based on an 80-20 split. You are being challenged to:
+Insider your Data folder – you will see a very familiar dataset, which has been split up into 2 files (along with a few columns have been removed).
+
+- [Train1.csv](./Data/Train1.csv)
+- [Train2.csv](./Data/Train2.csv)
+
+The titanic dataset. You will work without AutoML to create a classication model based on an 80-20 split. You may decide you want to run an AutoML job to help you determine what model will provide you with the best results. We are going for accuracy.  You are being challenged to:
 
 Explore the 2 datasets, join them together based on passenger_id and engeering features for training your model inside an AML experiment.
 Create a model to predict if a person will survive on the titanic.
