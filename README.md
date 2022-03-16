@@ -10,6 +10,7 @@ The titanic dataset. You will work without AutoML to create a classication model
 Explore the 2 datasets, join them together based on passenger_id and engeering features for training your model inside an AML experiment.
 Create a model to predict if a person will survive on the titanic.
 Create a rest-endpoint that can be called to predict survival that will be compared to a hold out dataset.
+
 Activity Requirements:
     a. Required attributes to log during a training run to complete the exercise:
     i. Log in an experiment run your AUC for your test data
