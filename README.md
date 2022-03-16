@@ -12,11 +12,12 @@ Create a model to predict if a person will survive on the titanic.
 Create a rest-endpoint that can be called to predict survival that will be compared to a hold out dataset.
 
 Activity Requirements:
+
     a. Required attributes to log during a training run to complete the exercise:
-    i. Log in an experiment run your AUC for your test data
-    ii. Log in an experiment run Row size of the test dataset
-    iii. Log in an experiment run your ROC curve
-    iv. Log a Confusion Matrix
+        i. Log in an experiment run your AUC for your test data
+        ii. Log in an experiment run Row size of the test dataset
+        iii. Log in an experiment run your ROC curve
+        iv. Log a Confusion Matrix
     b. Register your model
     c. Deploy to an ACI endpoint your registered model
 
