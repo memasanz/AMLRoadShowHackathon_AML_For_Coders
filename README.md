@@ -17,15 +17,15 @@ Create a rest-endpoint that can be called to predict survival that will be compa
 
 Activity Requirements:
 
-    a. Required attributes to log during a training run to complete the exercise:
-        i. Log in an experiment run your AUC for your test data
-        ii. Log in an experiment run Row size of the test dataset
-        iii. Log in an experiment run your ROC curve
-        iv. Log a Confusion Matrix
-    b. Register your model
-    c. Deploy to an ACI endpoint your registered model
-    d. Inference the hold out dataset using your rest api with this dataset: [Hold.csv](./Data/Hold.csv)
-    e. Calculate your **accuracy**
+    1. Required attributes to log during a training run to complete the exercise:
+        a. Log in an experiment run your AUC for your test data
+        b. Log in an experiment run Row size of the test dataset
+        c. Log in an experiment run your ROC curve
+        d. Log a Confusion Matrix
+    2. Register your model
+    3. Deploy to an ACI endpoint your registered model
+    4. Inference the hold out dataset using your rest api with this dataset: [Hold.csv](./Data/Hold.csv)
+    5. Calculate your **accuracy**
 
 **Things to consider:**
 
