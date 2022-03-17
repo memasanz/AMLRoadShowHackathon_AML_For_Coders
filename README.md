@@ -9,7 +9,7 @@ Insider your Data folder – you will see a very familiar dataset, which has bee
 - [Train1.csv](./Data/Train1.csv)
 - [Train2.csv](./Data/Train2.csv)
 
-The titanic dataset. You will work without AutoML to create a classication model based on an 80-20 split. You may decide you want to run an AutoML job to help you determine what model will provide you with the best results. We are going for accuracy.  You are being challenged to:
+The titanic dataset. You will work without AutoML to create a classication model based on an 80-20 split. You may decide you want to run an AutoML job to help you determine what model will provide you with the best results. We are going for **accuracy**.  You are being challenged to:
 
 Explore the 2 datasets, join them together based on passenger_id and engeering features for training your model inside an AML experiment.
 Create a model to predict if a person will survive on the titanic.
@@ -24,6 +24,8 @@ Activity Requirements:
         iv. Log a Confusion Matrix
     b. Register your model
     c. Deploy to an ACI endpoint your registered model
+    d. Inference the hold out dataset using your rest api with this dataset: [Hold.csv](./Data/Hold.csv)
+    e. Calculate your **accuracy**
 
 **Things to consider:**
 
