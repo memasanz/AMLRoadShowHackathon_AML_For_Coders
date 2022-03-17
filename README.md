@@ -39,7 +39,7 @@ Nice article: https://towardsdatascience.com/step-by-step-tutorial-of-sci-kit-le
 Creating the model - once deployed, you will need to be able to replicate the environment used to create the model, if you use a conda yml file to define your environment from the start, deployment will probably be easier. Check out notebook: [001_Environments.ipynb](001_Environments.ipynb)
 
 Dataset(s) Features:
-
+    passendger_id: id of passenger
     survived: Survival 0 = No, 1 = Yes
     pclass: Passenger Class (1 = 1st, 2 = 2nd, 3 = 3rd)
     name: Name
